@@ -43,6 +43,8 @@
                     </targetTests>
                     <outputFormats>
                         <param>HTML</param>
+                        <param>XML</param>
+                        <param>CSV</param>
                     </outputFormats>
                 </configuration>
             </plugin>
