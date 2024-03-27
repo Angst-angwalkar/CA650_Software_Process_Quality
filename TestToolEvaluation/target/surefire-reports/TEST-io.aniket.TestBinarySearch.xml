@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="5" failures="0" name="io.aniket.TestBinarySearch" time="0.005" errors="0" skipped="0">
+<testsuite tests="5" failures="0" name="io.aniket.TestBinarySearch" time="0.003" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="17.0.9+9"/>
@@ -40,7 +40,7 @@
     <property name="java.class.path" value="/usr/share/maven/boot/plexus-classworlds-2.6.0.jar"/>
     <property name="java.vm.specification.version" value="17"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean test org.pitest:pitest-maven:mutationCoverage"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test org.pitest:pitest-maven:mutationCoverage"/>
     <property name="java.home" value="/usr/lib/jvm/java-17-openjdk-17.0.9.0.9-3.fc38.x86_64"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -58,9 +58,9 @@
     <property name="java.vendor.version" value="(Red_Hat-17.0.9.0.9-4)"/>
     <property name="sun.stdout.encoding" value="UTF-8"/>
   </properties>
-  <testcase classname="io.aniket.TestBinarySearch" name="testBinarySearchSingleElementList" time="0.003"/>
+  <testcase classname="io.aniket.TestBinarySearch" name="testBinarySearchSingleElementList" time="0.002"/>
   <testcase classname="io.aniket.TestBinarySearch" name="testBinarySearchSortedList" time="0"/>
   <testcase classname="io.aniket.TestBinarySearch" name="testBinarySearchShuffledList" time="0"/>
   <testcase classname="io.aniket.TestBinarySearch" name="testBinarySearchArrayType" time="0.001"/>
-  <testcase classname="io.aniket.TestBinarySearch" name="testBinarySearchEmptyList" time="0.001"/>
+  <testcase classname="io.aniket.TestBinarySearch" name="testBinarySearchEmptyList" time="0"/>
 </testsuite>

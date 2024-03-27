@@ -9,7 +9,7 @@ public class BinarySearch {
 
     public int search(List<Integer> arr, int elem) throws IndexOutOfBoundsException{
 
-        if (arr instanceof ArrayList == false){
+        if (!(arr instanceof ArrayList)){
             throw new IllegalArgumentException("Invalid Array Type");
         }
 

@@ -1,0 +1,17 @@
+BinarySearch.java,io.aniket.BinarySearch,org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator,main,47,NO_COVERAGE,none
+BinarySearch.java,io.aniket.BinarySearch,org.pitest.mutationtest.engine.gregor.mutators.ConditionalsBoundaryMutator,search,28,KILLED,io.aniket.TestBinarySearch.testBinarySearchSortedList(io.aniket.TestBinarySearch)
+BinarySearch.java,io.aniket.BinarySearch,org.pitest.mutationtest.engine.gregor.mutators.ConditionalsBoundaryMutator,search,35,SURVIVED,none
+BinarySearch.java,io.aniket.BinarySearch,org.pitest.mutationtest.engine.gregor.mutators.IncrementsMutator,search,29,SURVIVED,none
+BinarySearch.java,io.aniket.BinarySearch,org.pitest.mutationtest.engine.gregor.mutators.MathMutator,search,30,KILLED,io.aniket.TestBinarySearch.testBinarySearchShuffledList(io.aniket.TestBinarySearch)
+BinarySearch.java,io.aniket.BinarySearch,org.pitest.mutationtest.engine.gregor.mutators.MathMutator,search,30,KILLED,io.aniket.TestBinarySearch.testBinarySearchShuffledList(io.aniket.TestBinarySearch)
+BinarySearch.java,io.aniket.BinarySearch,org.pitest.mutationtest.engine.gregor.mutators.MathMutator,search,36,TIMED_OUT,none
+BinarySearch.java,io.aniket.BinarySearch,org.pitest.mutationtest.engine.gregor.mutators.MathMutator,search,39,TIMED_OUT,none
+BinarySearch.java,io.aniket.BinarySearch,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,search,12,KILLED,io.aniket.TestBinarySearch.testBinarySearchEmptyList(io.aniket.TestBinarySearch)
+BinarySearch.java,io.aniket.BinarySearch,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,search,16,KILLED,io.aniket.TestBinarySearch.testBinarySearchEmptyList(io.aniket.TestBinarySearch)
+BinarySearch.java,io.aniket.BinarySearch,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,search,19,KILLED,io.aniket.TestBinarySearch.testBinarySearchSingleElementList(io.aniket.TestBinarySearch)
+BinarySearch.java,io.aniket.BinarySearch,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,search,28,KILLED,io.aniket.TestBinarySearch.testBinarySearchSortedList(io.aniket.TestBinarySearch)
+BinarySearch.java,io.aniket.BinarySearch,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,search,33,KILLED,io.aniket.TestBinarySearch.testBinarySearchSortedList(io.aniket.TestBinarySearch)
+BinarySearch.java,io.aniket.BinarySearch,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,search,35,KILLED,io.aniket.TestBinarySearch.testBinarySearchSortedList(io.aniket.TestBinarySearch)
+BinarySearch.java,io.aniket.BinarySearch,org.pitest.mutationtest.engine.gregor.mutators.PrimitiveReturnsMutator,search,20,KILLED,io.aniket.TestBinarySearch.testBinarySearchSingleElementList(io.aniket.TestBinarySearch)
+BinarySearch.java,io.aniket.BinarySearch,org.pitest.mutationtest.engine.gregor.mutators.PrimitiveReturnsMutator,search,34,NO_COVERAGE,none
+BinarySearch.java,io.aniket.BinarySearch,org.pitest.mutationtest.engine.gregor.mutators.PrimitiveReturnsMutator,search,42,KILLED,io.aniket.TestBinarySearch.testBinarySearchSortedList(io.aniket.TestBinarySearch)
